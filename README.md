@@ -1,2 +1,1 @@
-# PrepCorseHenry
-siguiendo el tutorial modulo 2 de Henry
+Este proy es una prueba de como clonar un repositorio y clonarlo desde github a mi pc
